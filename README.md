@@ -1,6 +1,6 @@
 # CBD is the THC companion
 
-CBD stands for Cloud Based Demo.
+CBD stands for Continuous Build & Deployment.
 
 Check out [THC](https://github.com/social-dist0rtion-protocol/thc).
 
